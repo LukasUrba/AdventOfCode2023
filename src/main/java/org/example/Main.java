@@ -4,7 +4,7 @@ import java.io.File;  // Import the File class
 import java.io.FileNotFoundException;  // Import this class to handle errors
 import java.util.Scanner;
 
-//TODO Days 1-21
+//TODO Split file into classes
 
 public class Main {
     public static void main(String[] args) {
