@@ -57,6 +57,7 @@ public class Main {
         return 0;
     }
 //    todo make separate numberchecker
+//    Passes the line to check for the word starting at the line position
     static int buildNumberWord(String singleLine,int pos) {
 
         return 0;
